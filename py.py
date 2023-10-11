@@ -6,4 +6,4 @@ class Solution:
                     return [i, j]
                 
 a = Solution()
-#$
+#
